@@ -21,6 +21,7 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
+![op](image-10.png)
 ![op1](image-1.png)
 ![op2](image-2.png)
 ![op3](image-3.png)
